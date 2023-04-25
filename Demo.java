@@ -1,2 +1,3 @@
-class {
+class  life {
+	1234
 }
