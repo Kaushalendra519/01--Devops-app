@@ -1,3 +1,3 @@
 class Life {
-	123
+	gunnu
 }
